@@ -13,6 +13,9 @@ This dashboard provides a comprehensive view of Amazon sales data, helping ident
 📊 KPI’s Requirement
 
 YTD Sales: Monitor year-to-date sales to gauge overall revenue performance over time.
+```
+YTD SALES = TOTALYTD(SUM(Amazon_Data[Price(Dollar)]),'Date table'[Date])
+```
 
 QTD Sales: Track quarterly sales to identify sales trends and fluctuations.
 ```
@@ -30,5 +33,22 @@ YTD Sales by Month (Line Chart): Visualize monthly sales trends and seasonal pat
 YTD Sales by Week (Column Chart): Display weekly sales data to spot short-term performance fluctuations.
 
 Sales by Product Category (Heat Map): Show category-wise sales for a clear comparative view.
+
+Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products by revenue.
+
+💻 Tech Stack
+
+Tool / Technology           Purpose
+--------------------------- ---------------------------------------------
+Power BI                    Data visualization and dashboard creation
+Power Query                 Data cleaning and transformation
+DAX                         Data modeling and advanced calculations
+Excel / CSV                 Data source and preprocessing
+Power BI Service            Report publishing and sharing
+Microsoft Fabric / Cloud    Data integration and scalability
+
+
+
+
 
 Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products by revenue.
