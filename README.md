@@ -51,8 +51,10 @@ Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products b
 
 Identify high-performing products and categories
 Understand seasonal and regional sales patterns
-Evaluate customer satisfaction through review trends
+Evaluate customer satisfaction through review trends 
 Support data-driven business planning
+
+![Amazone ](https://github.com/dstar211/Amazon-power-bi-dashboard/blob/main/amazon%20.png)
 
 
 
