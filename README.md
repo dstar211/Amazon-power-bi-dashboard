@@ -15,7 +15,8 @@ This dashboard provides a comprehensive view of Amazon sales data, helping ident
 YTD Sales: Monitor year-to-date sales to gauge overall revenue performance over time.
 
 QTD Sales: Track quarterly sales to identify sales trends and fluctuations.
-``` QTD SALES = TOTALQTD(SUM(Amazon_Data[Price(Dollar)]),'Date table'[Date])
+```
+ QTD SALES = TOTALQTD(SUM(Amazon_Data[Price(Dollar)]),'Date table'[Date])
 ```
 
 YTD Products Sold: Analyze total products sold throughout the year to understand product movement.
