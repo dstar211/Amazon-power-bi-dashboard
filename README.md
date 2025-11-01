@@ -34,21 +34,25 @@ YTD Sales by Week (Column Chart): Display weekly sales data to spot short-term p
 
 Sales by Product Category (Heat Map): Show category-wise sales for a clear comparative view.
 
-Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products by revenue.
+Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products by revenue.  
 
-💻 Tech Stack
+### 💻 Tech Stack
 
-Tool / Technology           Purpose
---------------------------- ---------------------------------------------
-Power BI                    Data visualization and dashboard creation
-Power Query                 Data cleaning and transformation
-DAX                         Data modeling and advanced calculations
-Excel / CSV                 Data source and preprocessing
-Power BI Service            Report publishing and sharing
-Microsoft Fabric / Cloud    Data integration and scalability
+| Tool / Technology | Purpose |
+|--------------------|----------|
+| **Power BI** | Data visualization and dashboard creation |
+| **Power Query** | Data cleaning and transformation |
+| **DAX** | Data modeling and advanced calculations |
+| **Excel / CSV** | Data source and preprocessing |
+| **Power BI Service** | Report publishing and sharing |
+| **Microsoft Fabric / Cloud Storage** | Data integration and scalability |
+
+💡 Insights
+
+Identify high-performing products and categories
+Understand seasonal and regional sales patterns
+Evaluate customer satisfaction through review trends
+Support data-driven business planning
 
 
 
-
-
-Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products by revenue.
